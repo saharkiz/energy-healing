@@ -122,6 +122,61 @@
         </div>
       </div>
     </section>
+    <section class="ftco-counter img ftco-section ftco-no-pt ftco-no-pb" id="section-counter" data-section="about">
+      <div class="container">
+        <div class="row d-flex">
+          <div class="col-md-6 col-lg-4 d-flex">
+            <div class="img d-flex align-self-stretch align-items-center" style="background: transparent;background-image:url(images/about-us.jpg);">
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-8 pl-lg-5 py-5">
+            <div class="row justify-content-start pb-3">
+              <div class="col-md-12 heading-section ftco-animate">
+                <span class="subheading">Welcome</span>
+                <h2 class="mb-4">About our Healer</h2>
+                <p>Energy healing is known for a very long time all over the world and since it works succesfully on body and mind in a holistic way, it is a lot to process.</p>
+                <p>Eng. Asghar Saharkhiz started Reiki Energy Therapy in 2006. In 2008 he started Magnetic Therapy. Healing many patients thru Magentic Therapy and Energy Healing. </p>
+                <p>Author of 2 Books "Miracle Cure with Magnet" and "Miracle Cure with Nature"</p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate d-flex">
+                <div class="block-18 text-center p-4 mb-4 align-self-stretch d-flex">
+                  <div class="text">
+                    <strong class="number" data-number="37">0</strong>
+                    <span>Years of experience</span>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate d-flex">
+                <div class="block-18 text-center py-4 px-3 mb-4 align-self-stretch d-flex">
+                  <div class="text">
+                    <strong class="number" data-number="1000">0</strong>
+                    <span>Project Done</span>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate d-flex">
+                <div class="block-18 text-center py-4 px-3 mb-4 align-self-stretch d-flex">
+                  <div class="text">
+                    <strong class="number" data-number="2">0</strong>
+                    <span>Books Published</span>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate d-flex">
+                <div class="block-18 text-center py-4 px-3 mb-4 align-self-stretch d-flex">
+                  <div class="text">
+                    <strong class="number" data-number="1100">0</strong>
+                    <span>Happy Customers</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <section class="ftco-section contact-section">
       <div class="container">
@@ -175,9 +230,7 @@
               <h2 class="ftco-heading-2">Energy Healing Dubai</h2>
               <p>Besides being the new Energy, Light and Information of our planet, it also promotes your ability to heal yourselves and impact lives of others.</p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
-                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+                <li class="ftco-animate"><a href="https://www.instagram.com/dubaienergyhealer/"><span class="icon-instagram"></span></a></li>
               </ul>
             </div>
           </div>

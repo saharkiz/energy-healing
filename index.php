@@ -23,7 +23,7 @@
       <meta name="twitter:card" content="summary_large_image">
       <meta name="twitter:title" content="Energy healing herbal medicine traditional medicine dubai">
       <meta name="twitter:description" content="Energy healing herbal medicine traditional medicine dubai">
-
+    <meta name="google-site-verification" content="aaI8m1WhzvG5wMnlpI-CxlpQOBN3HFHKiBcZ6-JnSBU" />
     <link rel="canonical" href="https://energy-healing.herokuapp.com/" />
     <link rel="icon" href="images/energy-healing-dubai_logo.png" type="image/png" sizes="16x16">
     <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900" rel="stylesheet">

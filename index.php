@@ -1,10 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Square - Free Bootstrap 4 Template by Colorlib</title>
+    <title>Energy Healing | Herbal & Traditional Medicine Dubai</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="geo.placename" content="Dubai" />
+      <meta name="geo.position" content="25.191324;55.2851233" />
+      <meta name="geo.region" content="AE" />
+      <meta name="description" content="Energy healing herbal medicine traditional medicine dubai We cover Abu Dhabi, Sharjah, Ajman, Fujairah"/>
+      <meta name="keywords" content="Herbal Medicine, Traditional Medicine, Energy Healing, Reiki Energy, Healing Dubai"/>
+      <meta name="author" content="Aresh Saharkhiz">
+      <meta name="robots" content="index, follow">
+      <meta property="og:type" content="website">
+      <meta property="og:url" content="https://energy-healing.herokuapp.com/">
+      <meta property="og:title" content="Energy Healing | Herbal & Traditional Medicine Dubai">
+      <meta property="og:description" content="Energy healing herbal medicine traditional medicine dubai">
+      <meta property="og:image" content="https://energy-healing.herokuapp.com//images/energy-healing-dubai_logo.png">
+      <meta property="og:energy-healing.herokuapp.com/">
+      <meta property="og:site_name"  content="Energy Healing | Herbal & Traditional Medicine Dubai">
+      <meta property="twitter:image" content="https://energy-healing.herokuapp.com/images/energy-healing-dubai_logo.png">
+      <meta name="twitter:site" content="@energy-healing.herokuapp.com">
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:title" content="Energy healing herbal medicine traditional medicine dubai">
+      <meta name="twitter:description" content="Energy healing herbal medicine traditional medicine dubai">
 
+    <link rel="canonical" href="https://energy-healing.herokuapp.com/" />
+    <link rel="icon" href="images/energy-healing-dubai_logo.png" type="image/png" sizes="16x16">
     <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900" rel="stylesheet">
 
     <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">

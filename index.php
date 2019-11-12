@@ -267,7 +267,7 @@
         </div>
       </div>
     </section>
-    <section class="ftco-section ftco-project bg-light" data-section="testimony" style="height: 300vh;">
+    <section class="ftco-section ftco-project bg-light" data-section="testimony" style="height: 200vh;">
       <div class="container">
     <div id="instagram-feed1" class="instagram_feed">Loading....</div>
       </div>

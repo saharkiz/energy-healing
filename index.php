@@ -267,13 +267,52 @@
         </div>
       </div>
     </section>
-    <section class="ftco-section ftco-project bg-light" data-section="testimony" style="height: 200vh;">
+    <section class="ftco-section ftco-project bg-light" data-section="testimony" style="height: 150vh;">
       <div class="container">
     <div id="instagram-feed1" class="instagram_feed">Loading....</div>
       </div>
    </div>
   </section>
-
+  <section class="ftco-section contact-section ftco-no-pb" data-section="contact">
+        <div class="container">
+        	<div class="row justify-content-center mb-5 pb-3">
+            <div class="col-md-7 heading-section text-center ftco-animate fadeInUp ftco-animated">
+              <span class="subheading">Contact</span>
+              <h2 class="mb-4">Contact Us</h2>
+              <p></p>
+            </div>
+          </div>
+          <div class="row d-flex contact-info">
+            <div class="col-md-6 col-lg-3 d-flex">
+            	<div class="align-self-stretch box p-4 text-center">
+            		<div class="icon d-flex align-items-center justify-content-center">
+            			<span class="icon-map-signs"></span>
+            		</div>
+            		<h3 class="mb-4">Address</h3>
+  	            <p>Dubai UAE</p>
+  	          </div>
+            </div>
+            <div class="col-md-4 col-lg-3 d-flex">
+            	<div class="align-self-stretch box p-4 text-center">
+            		<div class="icon d-flex align-items-center justify-content-center">
+            			<span class="icon-phone2"></span>
+            		</div>
+            		<h3 class="mb-4">Contact Number</h3>
+  	            <p><a href="tel://971506271565">+97150 6271 565</a></p>
+  	          </div>
+            </div>
+            <div class="col-md-4 col-lg-3 d-flex">
+            	<div class="align-self-stretch box p-4 text-center">
+            		<div class="icon d-flex align-items-center justify-content-center">
+            			<span class="icon-paper-plane"></span>
+            		</div>
+            		<h3 class="mb-4">Email Address</h3>
+  	            <p><a href="mailto:eng.saharkhiz@yahoo.com">eng.saharkhiz@yahoo.com</a></p>
+  	          </div>
+            </div>
+          </div>
+        </div>
+      </section>
     <footer class="ftco-footer ftco-section">
       <div class="container">
         <div class="row mb-5">

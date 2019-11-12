@@ -70,7 +70,7 @@
 	          <li class="nav-item"><a href="#" class="nav-link" data-nav-section="testimony"><span>Testimony</span></a></li>
 	          <li class="nav-item"><a href="#" class="nav-link" data-nav-section="contact"><span>Contact</span></a></li>
 	          <li class="nav-item cta"><a href="https://wa.me/971506271565?text=Energy%20Healing%20Website%20Inquiry" class="nav-link">Call Us</a></li>
-			<li class="nav-item"><a href="/ae.php" class="nav-link"><img src="images/ae.png" alt="Arabic Language" class="rounded-circle"></a></li>
+			<li class="nav-item"><a href="/ar.php" class="nav-link"><img src="images/ae.png" alt="Arabic Language" class="rounded-circle"></a></li>
 			<li class="nav-item"><a href="/ir.php" class="nav-link"><img src="images/ir.png" alt="Farsi Language" class="rounded-circle"></a></li>
 			<li class="nav-item"><a href="/" class="nav-link"><img src="images/us.png"  alt="English Language" class="rounded-circle"></a></li>
 	        </ul>

@@ -55,9 +55,6 @@
 
   </head>
   <body>
-<style>
-
-</style>
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light scroller scrolled" id="ftco-navbar">
 	    <div class="container">
 	      <a class="navbar-brand" href="/"><span><img src="images/energy-healing-dubai_logo.png" style="width:20%" class="img-responsive" /> &nbsp; Energy Healing</span></a>
@@ -334,7 +331,33 @@ Reiki is powerful, yet wonderfully gentle and nurturing. During a treatment, the
 
 Anyone can learn to tap into an unlimited supply of 'life force energy' to improve health and enhance the quality of life by learning Reiki, or by receiving treatments from a Reiki Practitioner or Master.
 
-In the Light of the Creator...We See Only Love</p>
+In the Light of the Creator...We See Only Love
+	Contact us for a consultation in Dubai, United Arab Emirates</p>
+	<p>Herbal medicines are plant-based medicines made from differing combinations of plant parts e.g. leaves, flowers or roots. Each part can have different medicinal uses and the many types of chemical constituents require different extraction methods. Both fresh and dried plant matter are used, depending on the herb. 
+
+We at energy healing in Dubai are aware of the importance of medicines being being sourced from reputable manufacturers, who maintain consistent quality standards. Traceability (right back to the original batch of herbs) and certificates of authenticity are key ways in which quality is maintained. Sustainability is also of crucial importance. 
+
+Water-based preparations
+
+Infusions: dried or fresh herbs, usually aerial parts, steeped in boiling water
+Decoction: usually harder plant material, boiled on the stove for longer than infusions
+Syrups: herbs incorporated into a thick, sweet liquid
+Poultices: moistened herbs kept in place by a cloth for localised healing
+Lotions: infusions or decoctions delivered in a smooth liquid preparation
+Compresses: generally a soft cloth wrung out of a hot or cold infusion or decoction and applied to the affected area
+Alcohol-based preparations usually called Tinctures. There are non-alcoholic alternatives to this such as glycerites or vinegars which are taken in the same way. 
+
+Oil-based preparations such as infused oils and ointments are used externally.
+
+Other preparations commonly used:
+
+Powders taken internally and applied externally, may come in loose form or in capsules
+Juices are very nutritive
+Creams are often preferred in the treatment of skin conditions
+Steam inhalations
+Baths and skin washes
+Gargles and mouthwashes
+Pessaries and suppositories</p>
 </div>
 </div>
 </div>

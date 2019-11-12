@@ -304,6 +304,41 @@
           </div>
         </div>
       </section>
+	
+	<div class="container">
+<div class="row">
+<div class="col-12 footer-textarea" style="height: 6rem;
+    overflow: hidden;
+    overflow-y: scroll;
+    font-size: .75rem;
+    padding: 0;
+    margin-bottom: 1rem;
+    margin-top: 1.5rem;">
+	<p>Many people are practicing techniques to improve their health such as meditation, exercise and improved diet. As this is done, a deeper awareness often develops concerning the flow of subtle energies in and around the body and the connection between these subtle energies and one's health. This developing awareness validates the ancient idea of 'life force energy' as the cause of health and its lack as the cause of illness. The existence of 'life force energy' and the necessity for it to flow freely in and around one's body to maintain health has been studied and acknowledged by health care practitioners as well as scientists.
+
+Our body is composed not only of physical elements such as muscles, bones, nerves, arteries, organs, glands, etc.; it also has a subtle energy system through which 'life force energy' flows. This subtle energy system is composed of energy 'bodies' which surround our physical body and assist us in processing our thoughts and emotions. The energy bodies have energy centers called chakras, which work somewhat like valves that allow life force to circulate through the physical, mental, emotional and spiritual bodies. We also have energy meridians and nadas. These are like rivers, or streams which carry our life force energy throughout our physical body, to nourish us and assist in balancing our body’s systems and functions.
+
+Our physical body is alive because of the 'life force energy' that is flowing though it. If our 'life force' is low or blocked, we are more likely to get sick, but if it is high and free flowing, we more easily maintain health and a feeling of well-being. One thing that disrupts and weakens the flow of 'life force energy' is stress. Stress is often caused by conflicting thoughts and feelings that get lodged in one's subtle energy system. These include fear, worry, doubt, anger, anxiety, etc. Medical research has determined that continual stress can block the body's natural ability to repair, regenerate and protect itself. The American Institute of Stress estimates that 75%-95% of all visits to doctors are the results of reaction to stress. The effects of unreleased stress range from minor aches to major health concerns, such as heart disease, digestive disorders, respiratory and skin problems.
+
+Reiki (ray-key) is a technique that aids the body in releasing stress and tension by creating deep relaxation. Because of this, Reiki promotes healing and health. The word Reiki is made of two Japanese words - Rei which means "the Wisdom of God or the Higher Power" and Ki which is means 'life force energy.' So Reiki means 'spiritually guided life force energy.' The Reiki system of healing is a technique for transmitting this subtle energy to yourself and others through the hands into the human energy system. Reiki restores energy balance and vitality by relieving the physical and emotional effects of unreleased stress. It gently and effectively opens blocked meridians, nadas and chakras, and clears the energy bodies, leaving one feeling relaxed and at peace.
+	</p><p>
+Reiki can:
+
+Accelerate healing
+Assist the body in cleansing toxins
+Balance the flow of subtle energy by releasing blockages
+Help the client contact the 'healer within.'
+A treatment feels like warm, gentle sunshine which flows through you, surrounds you and comforts you. Reiki treats the person’s body, emotions, mind and spirit as a whole. Reiki is a simple, natural and safe method of spiritual healing and self-improvement that everyone can use.
+
+Reiki is powerful, yet wonderfully gentle and nurturing. During a treatment, the clients remain fully clothed. Reiki is an effective alternative, or complement to massage therapy. Reiki supports any medical, or supplemental healing methods a client may be using and is of growing interest to chiropractors, medical doctors, physiotherapists, psychotherapists, psychologists and hypnotherapists.
+
+Anyone can learn to tap into an unlimited supply of 'life force energy' to improve health and enhance the quality of life by learning Reiki, or by receiving treatments from a Reiki Practitioner or Master.
+
+In the Light of the Creator...We See Only Love</p>
+</div>
+</div>
+</div>
+	
     <footer class="ftco-footer ftco-section">
       <div class="container">
         <div class="row mb-5">

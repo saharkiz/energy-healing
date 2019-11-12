@@ -67,8 +67,7 @@
 	          <li class="nav-item"><a href="#" class="nav-link" data-nav-section="home"><span>الصفحة الرئيسية</span></a></li>
 	          <li class="nav-item"><a href="#" class="nav-link" data-nav-section="about"><span>معلومات عنا</span></a></li>
 	          <li class="nav-item"><a href="#" class="nav-link" data-nav-section="Services"><span>خدمات</span></a></li>
-	          <li class="nav-item"><a href="#" class="nav-link" data-nav-section="testimony"><span>Testimony</span></a></li>
-	          <li class="nav-item"><a href="#" class="nav-link" data-nav-section="contact"><span>شهادة</span></a></li>
+	          <li class="nav-item"><a href="#" class="nav-link" data-nav-section="testimony"><span>شهادة</span></a></li>
 	          <li class="nav-item cta"><a href="https://wa.me/971506271565?text=Energy%20Healing%20Website%20Inquiry" class="nav-link">اتصل بنا</a></li>
 			<li class="nav-item"><a href="/ae.php" class="nav-link"><img src="images/ae.png" alt="Arabic Language" class="rounded-circle"></a></li>
 			<li class="nav-item"><a href="/ir.php" class="nav-link"><img src="images/ir.png" alt="Farsi Language" class="rounded-circle"></a></li>
@@ -142,11 +141,11 @@
           <div class="col-md-6 col-lg-8 pl-lg-5 py-5">
             <div class="row justify-content-start pb-3">
               <div class="col-md-12 heading-section ftco-animate">
-                <span class="subheading">Welcome</span>
-                <h2 class="mb-4">About our Healer</h2>
-                <p>Energy healing is known for a very long time all over the world and since it works succesfully on body and mind in a holistic way, it is a lot to process.</p>
-                <p>Eng. Asghar Saharkhiz started Reiki Energy Therapy in 2006. In 2008 he started Magnetic Therapy. Healing many patients thru Magentic Therapy and Energy Healing. </p>
-                <p>Author of 2 Books "Miracle Cure with Magnet" and "Miracle Cure with Nature"</p>
+                <span class="subheading">أهلا بك</span>
+                <h2 class="mb-4">حول المعالج لدينا</h2>
+                <p>يُعرف شفاء الطاقة لفترة طويلة جدًا في جميع أنحاء العالم ، ولأنه يعمل بنجاح على الجسم والعقل بطريقة شمولية ، فإنه كثيرًا ما تتم معالجته</p>
+                <p>المهندس بدأ Reiki Energy Therapy في عام 2006. في عام 2008 بدأ العلاج المغناطيسي. شفاء العديد من المرضى من خلال العلاج Magentic وشفاء الطاقة. </p>
+                <p>"مؤلف كتابين "معجزة علاج مع المغناطيس" و "معجزة علاج مع الطبيعة"</p>
               </div>
             </div>
             <div class="row">

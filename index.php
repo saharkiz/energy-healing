@@ -283,16 +283,7 @@
             </div>
           </div>
           <div class="row d-flex contact-info">
-            <div class="col-md-6 col-lg-3 d-flex">
-            	<div class="align-self-stretch box p-4 text-center">
-            		<div class="icon d-flex align-items-center justify-content-center">
-            			<span class="icon-map-signs"></span>
-            		</div>
-            		<h3 class="mb-4">Address</h3>
-  	            <p>Dubai UAE</p>
-  	          </div>
-            </div>
-            <div class="col-md-4 col-lg-3 d-flex">
+            <div class="col-md-6 col-lg-6 d-flex">
             	<div class="align-self-stretch box p-4 text-center">
             		<div class="icon d-flex align-items-center justify-content-center">
             			<span class="icon-phone2"></span>
@@ -301,7 +292,7 @@
   	            <p><a href="tel://971506271565">+97150 6271 565</a></p>
   	          </div>
             </div>
-            <div class="col-md-4 col-lg-3 d-flex">
+            <div class="col-md-6 col-lg-6 d-flex">
             	<div class="align-self-stretch box p-4 text-center">
             		<div class="icon d-flex align-items-center justify-content-center">
             			<span class="icon-paper-plane"></span>

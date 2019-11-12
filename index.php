@@ -42,6 +42,17 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
+
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-70163755-3"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-70163755-3');
+      </script>
+
   </head>
   <body>
 <style>
@@ -177,6 +188,42 @@
         </div>
       </div>
     </section>
+
+    <section class="ftco-section ftco-project bg-light" data-section="Services">
+           <div class="container">
+              <div class="row justify-content-center mb-5 pb-3">
+                <div class="col-md-12 heading-section text-center ftco-animate fadeInUp ftco-animated">
+                 <span class="subheading">Our Healing Services</span>
+                 <h2 class="mb-4">Pricing Packages</h2>
+                 <p></p>
+               </div>
+              </div>
+              <div class="row no-gutters d-flex">
+                 <div class="col-lg-6 col-md-6 ftco-animate fadeInUp ftco-animated">
+                    <div class="block-7">
+                       <div class="text-center">
+                         <h2 class="heading">CONSULTATION HEALING</h2>
+                         <span class="price">
+                             <span class="number">499<small class="per">AED</small></span>
+                            <span class="excerpt d-block">45-60 minutes</span>
+                            <h3 class="heading-2 mb-3">Herbal Medicine and healing</h3>
+                         </span>
+                       </div>
+                    </div>
+                 </div>
+                 <div class="col-lg-6 col-md-6 ftco-animate fadeInUp ftco-animated">
+                    <div class="block-7 active">
+                       <div class="text-center">
+                          <h2 class="heading">HEALING IN PERSON</h2>
+                          <span class="price"><span class="number">998<small class="per">AED</small></span></span>
+                          <span class="excerpt d-block">15-20 Minute Session</span>
+                          <h3 class="heading-2 mb-3">Reiki Energy Healing</h3>
+                       </div>
+                    </div>
+                 </div>
+              </div>
+           </div>
+        </section>
 
     <section class="ftco-section contact-section">
       <div class="container">

@@ -267,8 +267,12 @@
         </div>
       </div>
     </section>
-
+    <section class="ftco-section ftco-project bg-light" data-section="testimony">
+      <div class="container">
     <div id="instagram-feed1" class="instagram_feed">Loading....</div>
+      </div>
+   </div>
+
 
     <footer class="ftco-footer ftco-section">
       <div class="container">

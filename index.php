@@ -268,6 +268,7 @@
       </div>
     </section>
 
+    <div id="instagram-feed1" class="instagram_feed">Loading....</div>
 
     <footer class="ftco-footer ftco-section">
       <div class="container">
@@ -351,8 +352,32 @@
   <script src="js/jquery.animateNumber.min.js"></script>
   <script src="js/scrollax.min.js"></script>
   <script src="js/main.js"></script>
+  <script type='text/javascript' src='js/jquery.instagramFeed.min.js'></script>
   <a href="https://wa.me/971506271565?text=Energy%20Healer%20Website%20Inquiry" class="atsfloat" target="_blank">
   <i class="fa fa-whatsapp my-float"></i>
   </a>
+
+  <script>
+    /**
+ * Intagram Feed
+ */
+ (function($){
+			$(window).on('load', function(){
+				$.instagramFeed({
+					'username': 'dubaienergyhealer',
+					'container': "#instagram-feed1",
+					'display_profile': true,
+					'display_biography': true,
+					'display_gallery': true,
+					'get_raw_json': false,
+					'callback': null,
+					'styling': true,
+					'items': 24,
+					'items_per_row': 4,
+					'margin': 1
+				});
+			});
+		})(jQuery);
+</script>
   </body>
 </html>

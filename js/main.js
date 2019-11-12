@@ -97,6 +97,11 @@
 			        	scrollTop: $('[data-section="' + section + '"]').offset().top - 70
 			    	}, 500);
 			   }
+			else
+			{
+				return true;
+			}
+			
 
 		    if ( navbar.is(':visible')) {
 		    	navbar.removeClass('in');

@@ -270,7 +270,7 @@
       <div class="container">
         <div class="row d-flex">
           
-          <div class="col-md-6 col-lg-8 pl-lg-5 py-5">
+          <div class="col-md-12 col-lg-12 pl-lg-5 py-5">
             <div class="row justify-content-start pb-3">
               <div class="col-md-12 heading-section ftco-animate">
                 <h2 class="mb-4">About Energy Healing and Reiki</h2>
@@ -329,10 +329,6 @@ The first session usually brings improvement, and the benefits grow with repeate
                   </div>
                 </div>
               </div>
-            </div>
-          </div>
-	   <div class="col-md-6 col-lg-4 d-flex">
-            <div class="img d-flex align-self-stretch align-items-center" style="background: transparent;background-image:url(images/about-us.jpg);">
             </div>
           </div>
         </div>

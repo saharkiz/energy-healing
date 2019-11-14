@@ -104,7 +104,7 @@
               <div class="icon"><span class="flaticon-layers"></span></div>
               <div class="media-body">
                 <h3 class="heading mb-3">Healing in Person</h3>
-                <p>A face to face session, recommended to do once a week to allow time for the frequency to manifest fully.</p>
+                <p>A face to face energy healing session, recommended to do once a week to allow time for the frequency to manifest fully.</p>
                 <p><a href="#" class="btn btn-primary">Read more</a></p>
               </div>
             </div>
@@ -262,6 +262,78 @@
           		<h3 class="mb-4">Website</h3>
 	            <p><a href="#">https://energy-healing.herokuapp.com/</a></p>
 	          </div>
+          </div>
+        </div>
+      </div>
+    </section>
+<section class="ftco-counter img ftco-section ftco-no-pt ftco-no-pb" id="section-counter" data-section="reiki">
+      <div class="container">
+        <div class="row d-flex">
+          
+          <div class="col-md-6 col-lg-8 pl-lg-5 py-5">
+            <div class="row justify-content-start pb-3">
+              <div class="col-md-12 heading-section ftco-animate">
+                <h2 class="mb-4">About Energy Healing and Reiki</h2>
+                <p>Reiki can help you feel more balanced no matter what’s happening in your life. For example:
+			</p><p>
+		      <ul>
+			      <li>Do you have a medical condition and want to feel better while supporting your health care?</li>
+<li>Are you healthy but not sleeping well, maybe adding unwanted pounds?</li>
+<li>Would you like to feel more engaged, more in control of your life and your health?</li>
+<li>Do you sometimes feel isolated, hopeless to address the challenges of your life?</li>
+<li>Do you want to develop your inner spiritual connection, on your own terms?</li>
+		      </ul>
+			      </p>
+		      <p>
+			  Reiki is a spiritual healing practice that helps your system balance itself. Balance is always a good thing, because your body can only self-heal when your nervous system is balanced.
+</p><p>
+By encouraging your system toward balance, Reiki practice can help you in any situation, even when it isn’t the only help you need.
+</p><p>
+Reiki practice is unique in that you can receive a Reiki treatment.
+</p><p>
+Balance means different things at different times. If you are tired, you’ll feel refreshed. 
+			      If you are anxious, you’ll feel serene. If you are distressed, you’ll feel comforted.
+		      </p><p>
+Instead of feeling overwhelmed, you’ll discover a renewed clarity and purpose. And these subjective changes come with physical changes associated with deep relaxation, such as a slower heart rate and easier breathing.
+</p><p>
+The first session usually brings improvement, and the benefits grow with repeated sessions. In emergencies or during intensive care, patients often show benefit within a few minutes.    
+		      </p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate d-flex">
+                <div class="block-18 text-center p-4 mb-4 align-self-stretch d-flex">
+                  <div class="text">
+                    <span>Reduces Physical Aches & Pains</span>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate d-flex">
+                <div class="block-18 text-center py-4 px-3 mb-4 align-self-stretch d-flex">
+                  <div class="text">
+                    <span>Curb Emotional Traumas</span>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate d-flex">
+                <div class="block-18 text-center py-4 px-3 mb-4 align-self-stretch d-flex">
+                  <div class="text">
+                    <span>Manages Stress Management</span>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate d-flex">
+                <div class="block-18 text-center py-4 px-3 mb-4 align-self-stretch d-flex">
+                  <div class="text">
+                    <span>Chakra Balancing</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+	   <div class="col-md-6 col-lg-4 d-flex">
+            <div class="img d-flex align-self-stretch align-items-center" style="background: transparent;background-image:url(images/about-us.jpg);">
+            </div>
           </div>
         </div>
       </div>

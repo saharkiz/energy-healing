@@ -124,7 +124,7 @@
               <div class="icon"><span class="flaticon-layers"></span></div>
               <div class="media-body">
                 <h3 class="heading mb-3">Consultation Healing</h3>
-                <p>A face to face session that will last about 45-60 minutes on Traditional medicine and Herbal treatments</p>
+                <p>A face to face session on Traditional medicine and Herbal treatments</p>
                 <p><a href="#" class="btn btn-primary">Read more</a></p>
               </div>
             </div>
@@ -198,24 +198,34 @@
                </div>
               </div>
               <div class="row no-gutters d-flex">
-                 <div class="col-lg-6 col-md-6 ftco-animate fadeInUp ftco-animated">
+		 <div class="col-lg-4 col-md-4 ftco-animate fadeInUp ftco-animated">
+                    <div class="block-7 active">
+                       <div class="text-center">
+                          <h2 class="heading">PROMO HEALING SESSION</h2>
+                          <span class="price"><span class="number">400<small class="per">AED</small></span></span>
+                          <span class="excerpt d-block">Promo Offer (1 Session)</span>
+                          <h3 class="heading-2 mb-3">Reiki Energy Healing</h3>
+                       </div>
+                    </div>
+                 </div>
+                 <div class="col-lg-4 col-md-4 ftco-animate fadeInUp ftco-animated">
                     <div class="block-7">
                        <div class="text-center">
                          <h2 class="heading">CONSULTATION HEALING</h2>
                          <span class="price">
                              <span class="number">499<small class="per">AED</small></span>
-                            <span class="excerpt d-block">45-60 minutes</span>
+                            <span class="excerpt d-block">1 Session (1 Day)</span>
                             <h3 class="heading-2 mb-3">Herbal Medicine and healing</h3>
                          </span>
                        </div>
                     </div>
                  </div>
-                 <div class="col-lg-6 col-md-6 ftco-animate fadeInUp ftco-animated">
-                    <div class="block-7 active">
+                 <div class="col-lg-4 col-md-4 ftco-animate fadeInUp ftco-animated">
+                    <div class="block-7">
                        <div class="text-center">
                           <h2 class="heading">HEALING IN PERSON</h2>
                           <span class="price"><span class="number">998<small class="per">AED</small></span></span>
-                          <span class="excerpt d-block">15-20 Minute Session</span>
+                          <span class="excerpt d-block">2 Session (2 Days)</span>
                           <h3 class="heading-2 mb-3">Reiki Energy Healing</h3>
                        </div>
                     </div>

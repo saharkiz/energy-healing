@@ -124,7 +124,7 @@
               <div class="icon"><span class="flaticon-layers"></span></div>
               <div class="media-body">
                 <h3 class="heading mb-3">مشاوره</h3>
-                <p>جلسه رو در رو که حدود 45 تا 60 دقیقه در طب سنتی و معالجات گیاهی به طول خواهد انجامید</p>
+                <p>جلسه رو در رو که در طب سنتی و معالجات گیاهی به طول خواهد انجامید</p>
                 <p><a href="#" class="btn btn-primary">بیشتر بخوانید</a></p>
               </div>
             </div>
@@ -204,7 +204,7 @@
                          <h2 class="heading">CONSULTATION HEALING</h2>
                          <span class="price">
                              <span class="number">499<small class="per">AED</small></span>
-                            <span class="excerpt d-block">45-60 minutes</span>
+                            <span class="excerpt d-block">1 Session</span>
                             <h3 class="heading-2 mb-3">Herbal Medicine and healing</h3>
                          </span>
                        </div>
@@ -215,7 +215,7 @@
                        <div class="text-center">
                           <h2 class="heading">HEALING IN PERSON</h2>
                           <span class="price"><span class="number">998<small class="per">AED</small></span></span>
-                          <span class="excerpt d-block">15-20 Minute Session</span>
+                          <span class="excerpt d-block">2 Session</span>
                           <h3 class="heading-2 mb-3">Reiki Energy Healing</h3>
                        </div>
                     </div>
